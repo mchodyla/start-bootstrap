@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/start-bootstrap/static/css/main.41789b8e.chunk.css",
+    "main.js": "/start-bootstrap/static/js/main.e92b698e.chunk.js",
+    "main.js.map": "/start-bootstrap/static/js/main.e92b698e.chunk.js.map",
+    "runtime-main.js": "/start-bootstrap/static/js/runtime-main.11c5b041.js",
+    "runtime-main.js.map": "/start-bootstrap/static/js/runtime-main.11c5b041.js.map",
+    "static/js/2.aaccf6fd.chunk.js": "/start-bootstrap/static/js/2.aaccf6fd.chunk.js",
+    "static/js/2.aaccf6fd.chunk.js.map": "/start-bootstrap/static/js/2.aaccf6fd.chunk.js.map",
+    "static/js/3.c1c89257.chunk.js": "/start-bootstrap/static/js/3.c1c89257.chunk.js",
+    "static/js/3.c1c89257.chunk.js.map": "/start-bootstrap/static/js/3.c1c89257.chunk.js.map",
+    "index.html": "/start-bootstrap/index.html",
+    "static/css/main.41789b8e.chunk.css.map": "/start-bootstrap/static/css/main.41789b8e.chunk.css.map",
+    "static/js/2.aaccf6fd.chunk.js.LICENSE.txt": "/start-bootstrap/static/js/2.aaccf6fd.chunk.js.LICENSE.txt",
+    "static/media/agency.min.css": "/start-bootstrap/static/media/map-image.3cd6dd98.png",
+    "static/media/logo.6ce24c58.svg": "/start-bootstrap/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11c5b041.js",
+    "static/js/2.aaccf6fd.chunk.js",
+    "static/css/main.41789b8e.chunk.css",
+    "static/js/main.e92b698e.chunk.js"
+  ]
+}
